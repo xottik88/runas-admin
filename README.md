@@ -24,4 +24,4 @@ Il lance une application avec **les droits de l’utilisateur actuel**
 
 1. Téléchargez ou clonez le projet :
    ```bash
-   git clone https://github.com/votre-repo/tool-launcher.git
+   git clone https://github.com/xottik88/runas-admin.git
