@@ -1,8 +1,8 @@
 # runas-admin
 open all executable file with admin perm
-# 🛠️ Tool Launcher
+# 🛠️ Run As Admin
 
-**Tool Launcher** est un utilitaire Windows en C++ permettant de lancer des programmes **sans affichage de la fenêtre UAC (User Account Control)**
+**Run As Admin** est un utilitaire Windows en C++ permettant de lancer des programmes **sans affichage de la fenêtre UAC (User Account Control)**
 Il lance une application avec **les droits de l’utilisateur actuel**
 
 > ⚠️ **Note importante :**  
